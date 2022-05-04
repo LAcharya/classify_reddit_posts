@@ -1,6 +1,4 @@
-# Project 3 : Web APIs and NLP
-## A Comparison of Classifiers on Classifying Text Data Scraped from Reddit
-
+# Comparing Performance Metrics of Four Classifiers on Labeling Text Data
 
 ### Introduction
 
